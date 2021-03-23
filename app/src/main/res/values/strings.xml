@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="temp_image">Image button for temperature conversions.</string>
+    <string name="weight_image">Image button for weight conversions.</string>
+    <string name="length_image">Image button for length conversions.</string>
+    <string name="conversion_error">Please select the correct conversion icon.</string>
+    <string name="input_error">Please enter a number for conversion.</string>
+
+    <string-array name="options">
+        <item>Metre</item>
+        <item>Celsius</item>
+        <item>Kilograms</item>
+    </string-array>
+</resources>
